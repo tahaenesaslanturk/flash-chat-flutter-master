@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "369442831700",
+    "firebase_url": "https://flash-chat0001.firebaseio.com",
+    "project_id": "flash-chat0001",
+    "storage_bucket": "flash-chat0001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369442831700:android:c5ac2c19e7ccc22b119cc1",
+        "android_client_info": {
+          "package_name": "com.tahaenes.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369442831700-ervuo9gogu5jvcelgtmclfan7qk7nd57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvzP5D2kOq-oKnh4HutUHPwsaloYdJ6KQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369442831700-ervuo9gogu5jvcelgtmclfan7qk7nd57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
